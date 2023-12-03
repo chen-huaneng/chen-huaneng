@@ -1,6 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=chen-huaneng&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chen-huaneng&layout=compact" />
+  </div>
+  
+  <div align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chen-huaneng" /> 
+  </div>
+  
+  <div align="center"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=chen-huaneng" /> 
+  </div>
+</div>
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-huaneng)
+
 <!--
 **chen-huaneng/chen-huaneng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

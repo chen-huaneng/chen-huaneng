@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm <a href="https://chen-huaneng.github.io/">Abel </a>or <a href="https://chen-huaneng.github.io/">Huaneng Chen</a>!</h1>
+<h1 align="center">👋Hi, I'm <a href="https://chen-huaneng.github.io/">Abel </a>or <a href="https://chen-huaneng.github.io/">さくらじま まい </a>!</h1>
 <p align="center">
   <a href="https://chen-huaneng.github.io/"><img src="Mai_Sakurajima.jpeg" alt="Banner"></a>
 </p>

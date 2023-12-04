@@ -1,17 +1,47 @@
 <h1 align="center">👋Hi, I'm <a href="https://chen-huaneng.github.io/">Abel </a>or <a href="https://chen-huaneng.github.io/">さくらじま まい </a>!</h1>
+
+```shell
+> さくらじま まい - chen-huaneng
+```
+
 <p align="center">
   <a href="https://chen-huaneng.github.io/"><img src="Mai_Sakurajima.jpeg" alt="Banner"></a>
 </p>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
+<h2 align="center">My GitHub Profile Views:</h2> 
+<picture>
+	<source 
+	  srcset="https://visitcount.itsvg.in/api?id=chen-huaneng&label=Profile%20Views&color=0&icon=6&pretty=true"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	  srcset="https://visitcount.itsvg.in/api?id=chen-huaneng&label=Profile%20Views&color=0&icon=6&pretty=true"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://visitcount.itsvg.in/api?id=chen-huaneng&label=Profile%20Views&color=0&icon=6&pretty=true" />
+</picture>
+
 <h2 align="center"> My Accounts:</h2>
 <p align="center">
-	<a href="https://twitter.com/v3xlrm1nOwo1" target="blank"><img aling="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter" alt="Twitter"/> </a>
-	<a href="https://t.me/v3xlrm1nOwo1" target="blank"><img aling="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=Telegram" alt="Telegram"/> </a>
-	<a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="blank"><img aling="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="Linkedin"/> </a>
-	<a href="https://discord.com/users/1115629890314715156" target="blank"><img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> </a>
-	<a href="mailto:Mo7ammedKhalil.ai@gmail.com" target="blank"><img aling="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Email"/> </a>
-	<a href="https://mo7ammed.medium.com/" target="blank"><img aling="center" src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=Medium" alt="Medium"/> </a>
+	<a href="https://github.com/chen-huaneng" target="blank">
+		<img aling="center" src="https://img.shields.io/badge/Github-05122A?logo=github&style=flat" alt="Github"/>
+	</a>
+	<a href="https://github.com/chen-huaneng/chen-huaneng.github.io/blob/main/source/imgs/banner/wechat.jpg" target="blank">
+		<img aling="center" src="https://img.shields.io/badge/Wechat-05122A?logo=wechat" alt="Wechat"/> 
+	</a>
+	<a href="https://discordapp.com/users/1053609134030860328" target="blank">
+		<img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> 
+	</a>
+		<a href="https://leetcode.cn/u/abel_chen/" target="blank">
+		<img aling="center" src="https://img.shields.io/badge/LeetCode-05122A?logo=leetcode&style=flat" alt="LeetCode"/> 
+	</a>
+	<a href="mailto:abel.2023999@gmail.com" target="blank">
+		<img aling="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Email"/> 
+	</a>
+	<a href="https://www.zhihu.com/people/yun-tun-5-10" target="blank">
+		<img aling="center" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-05122A?style=flat&logo=zhihu" alt="Zhihu"/> 
+	</a>
 </p>
 
 <h2 align="center">My Github</h2>

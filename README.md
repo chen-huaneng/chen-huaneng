@@ -1,3 +1,20 @@
+<h1 align="center">👋Hi, I'm <a href="https://chen-huaneng.github.io/">Abel </a>or <a href="https://chen-huaneng.github.io/">Huaneng Chen</a>!</h1>
+<p align="center">
+  <a href="https://chen-huaneng.github.io/"><img src="Mai_Sakurajima.jpeg" alt="Banner"></a>
+</p>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+
+<h2 align="center"> My Accounts:</h2>
+<p align="center">
+	<a href="https://twitter.com/v3xlrm1nOwo1" target="blank"><img aling="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter" alt="Twitter"/> </a>
+	<a href="https://t.me/v3xlrm1nOwo1" target="blank"><img aling="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=Telegram" alt="Telegram"/> </a>
+	<a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="blank"><img aling="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="Linkedin"/> </a>
+	<a href="https://discord.com/users/1115629890314715156" target="blank"><img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> </a>
+	<a href="mailto:Mo7ammedKhalil.ai@gmail.com" target="blank"><img aling="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Email"/> </a>
+	<a href="https://mo7ammed.medium.com/" target="blank"><img aling="center" src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=Medium" alt="Medium"/> </a>
+</p>
+
+<h2 align="center">My Github</h2>
 <br />
 	<div align="center">
 		<picture>
@@ -25,8 +42,8 @@
 		</picture>
 	</div>
 
-## 📊My Code Stats:
-### Leet Code Stats:
+<h2 align="center">📊My Code Stats:</h2>
+<h3 align="center">Leet Code Stats:</h3>
 <details>
   <summary>
     <b>Click to expand and see more <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/5ee82ccf-4930-4a3c-bef6-c98a57d704b4" width="30px" height="30" /> :</b>
@@ -48,7 +65,7 @@
  <br />
 </details>
 
-### Streak Stats:
+<h3 align="center">Streak Stats:</h3>
 <details>
   <summary>
     <b>Click to expand and see more <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/5ee82ccf-4930-4a3c-bef6-c98a57d704b4" width="30px" height="30" /> :</b>
@@ -66,7 +83,7 @@
  <br />
 </details>
 
-### Profile Trophy:
+<h3 align="center">Profile Trophy:</h3>
 <details>
   <summary>
     <b>Click to expand and see more <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/5ee82ccf-4930-4a3c-bef6-c98a57d704b4" width="30px" height="30" /> :</b>

@@ -10,22 +10,6 @@
 
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-<h2 align="center">My GitHub Profile Views:</h2> 
-
-<div align="center">
-	<picture>
-		<source 
-		  srcset="https://visitcount.itsvg.in/api?id=chen-huaneng&label=Profile%20Views&color=0&icon=6&pretty=true"
-		  media="(prefers-color-scheme: dark)"
-		/>
-		<source
-		  srcset="https://visitcount.itsvg.in/api?id=chen-huaneng&label=Profile%20Views&color=0&icon=6&pretty=true"
-		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		/>
-		<img src="https://visitcount.itsvg.in/api?id=chen-huaneng&label=Profile%20Views&color=0&icon=6&pretty=true" />
-	</picture>
-</div>
-
 <h2 align="center"> My Accounts:</h2>
 <p align="center">
 	<a href="https://github.com/chen-huaneng" target="blank">

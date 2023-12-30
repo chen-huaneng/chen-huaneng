@@ -64,7 +64,7 @@
 <h3 align="center">Leet Code Stats:</h3>
 <details>
   <summary>
-    <b>Click to expand and see more <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/5ee82ccf-4930-4a3c-bef6-c98a57d704b4" width="30px" height="30" /> :</b>
+    <b>Click to expand and see more:</b>
   </summary>
  	<br />
 	<div align="center">
@@ -86,7 +86,7 @@
 <h3 align="center">Streak Stats:</h3>
 <details>
   <summary>
-    <b>Click to expand and see more <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/5ee82ccf-4930-4a3c-bef6-c98a57d704b4" width="30px" height="30" /> :</b>
+    <b>Click to expand and see more:</b>
   </summary>
  	<br />
 	<div align="center">
@@ -104,7 +104,7 @@
 <h3 align="center">Profile Trophy:</h3>
 <details>
   <summary>
-    <b>Click to expand and see more <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/5ee82ccf-4930-4a3c-bef6-c98a57d704b4" width="30px" height="30" /> :</b>
+    <b>Click to expand and see more:</b>
   </summary>
  	<br />
 	<div align="center">

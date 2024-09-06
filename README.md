@@ -1,7 +1,7 @@
-<h1 align="center">👋Hi, I'm <a href="https://chen-huaneng.github.io/">Abel </a>or <a href="https://chen-huaneng.github.io/">さくらじま まい </a>!</h1>
+<h1 align="center">👋Hi, I'm <a href="https://chen-huaneng.github.io/">Abel </a>or <a href="https://chen-huaneng.github.io/">Chen Huaneng </a>!</h1>
 
 ```shell
-> さくらじま まい - chen-huaneng
+> Abel - Chen Huaneng
 ```
 
 <p align="center">

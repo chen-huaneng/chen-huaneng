@@ -3,15 +3,11 @@
 ```shell
 > Abel - Chen Huaneng
 ```
-<!--
+
 <p align="center">
   <a href="https://chen-huaneng.github.io/"><img src="Mai_Sakurajima.jpeg" alt="Banner"></a>
 </p>
--->
-<p align="center">
-  <a href="https://chen-huaneng.github.io/"><img src="linux-ar21.svg" alt="Banner"></a>
-</p>
-	
+
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <h2 align="center"> My Accounts:</h2>

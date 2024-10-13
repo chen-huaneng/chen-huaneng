@@ -15,9 +15,6 @@
 	<a href="https://github.com/chen-huaneng" target="blank">
 		<img aling="center" src="https://img.shields.io/badge/Github-05122A?logo=github&style=flat" alt="Github"/>
 	</a>
-	<a href="https://github.com/chen-huaneng/chen-huaneng.github.io/blob/main/source/imgs/banner/wechat.jpg" target="blank">
-		<img aling="center" src="https://img.shields.io/badge/Wechat-05122A?logo=wechat" alt="Wechat"/> 
-	</a>
 	<a href="https://discordapp.com/users/1053609134030860328" target="blank">
 		<img aling="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord" alt="Discord"/> 
 	</a>
